@@ -26,7 +26,7 @@ export function WalletActions() {
   }
 
   // Adresse du contrat déployé
-const contractAddress = '0xd16440dD226Cee618069f56600518546ed6829eF'
+const contractAddress = '0x663daEfD2A09943af4851B54185bF7518AB5ff8f'
 
   async function handleSend(message: string) {
     try {
