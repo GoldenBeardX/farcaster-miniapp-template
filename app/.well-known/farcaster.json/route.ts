@@ -5,9 +5,9 @@ export async function GET() {
   const farcasterConfig = {
   // TODO: Add your own account association
     accountAssociation: {
-    "header": "eyJmaWQiOjg4NzE3OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGJBMkE1MkFBYkY2N2JhMzljRDlCYkU3ODVCZTk1Qzc5NGRmNWVGQWIifQ",
-    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItbWluaWFwcC10ZW1wbGF0ZS1zYWdlLnZlcmNlbC5hcHAifQ",
-    "signature": "bZjJKF4S1YesIPkGdwsLNWtQu1+MKVJD9suMpWxIFphtAmrWXm687SlonKdagl9WOdM5INB3EYtD6VYvJtqHrhw="
+    "header": "eyJmaWQiOjg4NzExNCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDAzRDA2RTM2ODU1RjI4MWZGNkQyNzZFQThEZDhjOGFiYjhjMmY3RjYifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItbWluaWFwcC10ZW1wbGF0ZS1ibHVzaC52ZXJjZWwuYXBwIn0",
+    "signature": "IndpVnvb4C9RmLggZO23RZ0ADL9Hf5osBhWYZKgetfpPykLZ0OhpGsr/1rW2a0ld8G1sRffrzjdm9hUp5sFhHhw="
   },
     frame: {
       version: "1",
